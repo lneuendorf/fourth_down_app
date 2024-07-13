@@ -20,6 +20,7 @@ dependencies:
   - pillow
   - pip
   - pip:
+    - tqdm
     - nfl-data-py
     - tabulate
     - meteomatics
