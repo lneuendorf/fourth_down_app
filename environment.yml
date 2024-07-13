@@ -22,3 +22,4 @@ dependencies:
   - pip:
     - nfl-data-py
     - tabulate
+    - meteomatics
