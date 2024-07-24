@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - seaborn
   - xgboost
-  - pymc
+  - pymc3
   - arviz
   - scipy
   - theano

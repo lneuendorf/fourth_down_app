@@ -5,6 +5,7 @@
 - make website and post some articles? (hugo)
 
 # Plots/Tables
+- plot of fgpoe of last 100 or 50 over time
 1. Expectation model
     - Table showing kickers with highest fgoe
 3. Kicker Specific Model (for fourth down decision model)
